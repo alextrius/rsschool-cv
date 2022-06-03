@@ -18,6 +18,18 @@
  ## Skills and Proficiency:
 - HTML
 - CSS
--
+- js
+- git
 
- 
+---
+
+## Code example:
+```
+
+alert(3 +
+1
++ 2);
+```
+## English:
+
+ Intermediate
