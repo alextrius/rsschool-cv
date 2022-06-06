@@ -11,7 +11,7 @@
  ---
 
  ## Brielfy About Myself:
- I am 24 years old, worked for 2 years at IKEA, got under sacrificing. Now I want to join the IT field.
+ I am 24 years old, worked for 2 years at IKEA, got under reduction. Now I want to join the IT field.
 
 ---
 
